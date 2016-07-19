@@ -325,7 +325,7 @@
           </AttributeValues>
           <ParentModels />
           <Drivers>
-		<DriverName>Generic Brocade NOS Driver Version2</DriverName>
+		<DriverName>Generic Brocade NOS Driver</DriverName>
 	  </Drivers> 
           <Scripts />
         </ResourceModel>
